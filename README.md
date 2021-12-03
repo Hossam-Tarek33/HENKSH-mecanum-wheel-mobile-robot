@@ -1,6 +1,6 @@
 # HENKSH---A-mecanum-wheel-mobile-robot
 
-![IMG_20211203_164309]("https://user-images.githubusercontent.com/68400719/144661984-792f8da0-047b-46ae-85ad-290aa0829d07.jpg" width="50%" height="50%")
+![IMG_20211203_164309](https://user-images.githubusercontent.com/68400719/144661984-792f8da0-047b-46ae-85ad-290aa0829d07.jpg width="50%" height="50%")
 
 <img align="right" src="https://user-images.githubusercontent.com/68400719/144500521-c854e1f9-8e5b-4965-b320-b0abc30414d8.gif" width="50%" height="50%"/>
 *HENKSH* is a mobile robot based on four mecanum wheels. The robot uses Jetson-nano as a high-level layer where all the algorithms for navigation are applied. In the low-level layer, a Tiva tm4c123gxl is used for controlling the wheels and communicating with the Jetson.    

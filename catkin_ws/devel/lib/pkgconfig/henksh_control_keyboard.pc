@@ -1,0 +1,8 @@
+prefix=/home/hossam/catkin_ws/devel
+
+Name: henksh_control_keyboard
+Description: Description of henksh_control_keyboard
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

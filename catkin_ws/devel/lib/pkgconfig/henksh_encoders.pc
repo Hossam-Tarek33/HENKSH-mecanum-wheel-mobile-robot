@@ -1,0 +1,8 @@
+prefix=/home/hossam/catkin_ws/devel
+
+Name: henksh_encoders
+Description: Description of henksh_encoders
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

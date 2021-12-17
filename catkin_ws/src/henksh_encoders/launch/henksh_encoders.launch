@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="henksh_encoders" type="Encode.py" name="Encoder1" />
+    <node pkg="henksh_encoders" type="Encode2.py" name="Encoder2" />
+    <node pkg="henksh_encoders" type="Encode3.py" name="Encoder3" />
+    <node pkg="henksh_encoders" type="Encode4.py" name="Encoder4" />
+    <node pkg="henksh_encoders" type="Encode_sub.py" name="Encoders_Subscriber" output="screen"/>
+</launch>

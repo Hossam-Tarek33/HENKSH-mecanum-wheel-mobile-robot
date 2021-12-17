@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="henksh_control_keyboard" type="subscriber.py" name="Key_Sub_Node" output="screen" />
+    <node pkg="henksh_control_keyboard" type="publisher.py" name="Key_Pub_Node" />
+</launch>

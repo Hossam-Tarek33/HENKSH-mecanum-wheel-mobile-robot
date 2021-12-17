@@ -1,0 +1,8 @@
+prefix=/home/hossam/catkin_ws/install
+
+Name: Henksh_Control_Subscriber
+Description: Description of Henksh_Control_Subscriber
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

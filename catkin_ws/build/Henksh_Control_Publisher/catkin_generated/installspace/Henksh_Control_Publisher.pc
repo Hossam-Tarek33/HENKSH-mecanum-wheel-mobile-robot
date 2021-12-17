@@ -1,0 +1,8 @@
+prefix=/home/hossam/catkin_ws/install
+
+Name: Henksh_Control_Publisher
+Description: Description of Henksh_Control_Publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

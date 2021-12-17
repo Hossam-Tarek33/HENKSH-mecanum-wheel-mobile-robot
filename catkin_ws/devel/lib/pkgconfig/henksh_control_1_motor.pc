@@ -1,8 +1,0 @@
-prefix=/home/hossam/catkin_ws/devel
-
-Name: henksh_control_1_motor
-Description: Description of henksh_control_1_motor
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
